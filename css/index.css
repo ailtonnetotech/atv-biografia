@@ -1,6 +1,18 @@
 #videoHistoria {
     text-align: center;
 }
-#fotoAlbert1{
+#fotoAlbert1 {
     text-align: center;
+}
+
+#fotoAlbert2 {
+    text-align: center;
+}
+
+#fotoAlbert3 {
+    text-align: center;
+}
+
+main {
+    width: 80%;
 }
